@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "42E8D8AC-171",
+    "build_number": 171,
+    "build_time": 1614999573040
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "Ai强国",
+  "packageName": "com.AiQiangGuo",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "2.22.0.2021.03.06"
+}
